@@ -1,0 +1,19 @@
+{
+  "name": "rfa",
+  "version": "1.0.0",
+  "description": "rockville fencing academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkultracodes/RFA.git"
+  },
+  "author": "MK Hemingway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkultracodes/RFA/issues"
+  },
+  "homepage": "https://github.com/mkultracodes/RFA#readme"
+}
