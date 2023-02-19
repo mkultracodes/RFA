@@ -23,27 +23,30 @@ body{
     margin-bottom: 40px;
 }
 
-    @media (min-width: 770px) { 
+    @media (min-width: 1024px) { 
         .fb {
-            width:125%;
+            border:1px solid rgb(204, 204, 204);
+            border-radius: 2%;
         }
         }
         @media (max-width: 768px) { 
             .fb {
-                width:200%;
                 margin-bottom:50px;
+                border:none;
+/*                 background-color:rgb(204, 204, 204); */
+                padding:5%;
+                align-content:center;
             }
             }
     
 
   .fb{
-    border:1px solid rgb(204, 204, 204);
-/*     background-color: black; */
-    border-radius: 2%;
-/*     margin-bottom:25px; */
-/*     padding:10px; */
     align-content:center;
 }  
+
+.specialfb{
+    width:100%;
+}
 
 br.responsive {
     display: inline;
