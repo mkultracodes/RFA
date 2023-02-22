@@ -25,8 +25,8 @@ body{
 
     @media (min-width: 1024px) { 
         .fb {
-            border:1px solid rgb(204, 204, 204);
-            border-radius: 2%;
+/*             border:1px solid rgb(204, 204, 204);
+            border-radius: 2%; */
         }
         }
         @media (max-width: 768px) { 
@@ -125,7 +125,7 @@ br.responsive {
     height:100%;
     /*  object-fit is not supported on IE  */
     object-fit: cover;
-    opacity:0.5;
+/*     opacity:0.5; */
   }
   .jumbotron .container {
     z-index: 2;
